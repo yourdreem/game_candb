@@ -102,7 +102,6 @@ if(arrayPlayer[3] === DoneRandome[3]) {
 } 
 
 arrresalt = [resalt1, resalt2, resalt3, resalt4]
-console.log(arrresalt)
 let countB = '';
 let countK = '';
 
