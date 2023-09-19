@@ -36,7 +36,6 @@ const arr5 = arr4.filter(function(item) {
 
 
 // выводим в html поля для ввода данных 
-console.log(DoneRandome);
 const Done = document.querySelector('.done');
 Done.innerHTML ='ИГРА НАЧАЛАСЬ!<br> У ТЕБЯ 10 ПОПЫТОК!<br> СТАРТУЙ!';
 
